@@ -1,3 +1,5 @@
+//This is how to import arrays in java
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class inputsStrAry {
